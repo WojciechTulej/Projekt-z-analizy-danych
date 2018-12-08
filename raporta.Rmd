@@ -1,0 +1,13 @@
+---
+title: "Raport Analizy"
+author: "Wojciech Tulej"
+date: "8 grudnia 2018"
+output: html_document
+---
+
+Tu bedzie pierwsza czesc kodu 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
